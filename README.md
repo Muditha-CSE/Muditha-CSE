@@ -37,10 +37,10 @@
 ### 🌐 Connect with me
 
 <div align="left">
-  <a href="https://linkedin.com/in/Muditha-CSE">
+  <a href="https://www.linkedin.com/in/muditha-gunathilaka-27b832346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:mudithacse@email.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Muditha-CSE">
