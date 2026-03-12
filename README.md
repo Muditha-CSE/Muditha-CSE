@@ -10,18 +10,25 @@
 <div align="center">
 
 ```
-███╗   ███╗██╗   ██╗██████╗ ██╗████████╗██╗  ██╗ █████╗
-████╗ ████║██║   ██║██╔══██╗██║╚══██╔══╝██║  ██║██╔══██╗
-██╔████╔██║██║   ██║██║  ██║██║   ██║   ███████║███████║
-██║╚██╔╝██║██║   ██║██║  ██║██║   ██║   ██╔══██║██╔══██║
-██║ ╚═╝ ██║╚██████╔╝██████╔╝██║   ██║   ██║  ██║██║  ██║
-╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+ ██╗  ██╗██╗    ██╗    ██╗███╗   ███╗    ███╗   ███╗██╗   ██╗██████╗ ██╗████████╗██╗  ██╗ █████╗ ██╗
+ ██║  ██║██║    ██║   ██╔╝████╗ ████║    ████╗ ████║██║   ██║██╔══██╗██║╚══██╔══╝██║  ██║██╔══██╗██║
+ ███████║██║    ██║  ██╔╝ ██╔████╔██║    ██╔████╔██║██║   ██║██║  ██║██║   ██║   ███████║███████║██║
+ ██╔══██║██║    ██║ ██╔╝  ██║╚██╔╝██║    ██║╚██╔╝██║██║   ██║██║  ██║██║   ██║   ██╔══██║██╔══██║╚═╝
+ ██║  ██║██║    ██║██╔╝   ██║ ╚═╝ ██║    ██║ ╚═╝ ██║╚██████╔╝██████╔╝██║   ██║   ██║  ██║██║  ██║██╗
+ ╚═╝  ╚═╝╚═╝   ╚═╝╚═╝    ╚═╝     ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-### 🚀 Full-Stack Engineer · Building for the Web · End-to-End
+### 👋 Hi, I'm Muditha Jayashan
 
-*Software Engineer specializing in full-stack development.*
-*I build things for the web — thoughtful UIs, robust APIs, and everything in between.*
+🎓 **Undergraduate @ University of Moratuwa** — Department of Computer Science & Engineering
+
+💻 Passionate Full-Stack Engineer who loves building things for the web — from pixel-perfect UIs to powerful backend systems.
+
+🌱 Currently sharpening my skills in React, Node.js, Python, Java & Docker while working on real-world projects.
+
+🔭 Always exploring new technologies, contributing to open source, and turning ideas into working software.
+
+⚡ *"First, solve the problem. Then, write the code."*
 
 </div>
 
@@ -82,6 +89,6 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
